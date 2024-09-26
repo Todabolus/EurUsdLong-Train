@@ -4,3 +4,5 @@ train_data
 test_data
 *.h5
 *.pkl
+*.npy
+*.joblib
