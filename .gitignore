@@ -1,0 +1,6 @@
+*.csv
+val_data
+train_data
+test_data
+model.h5
+skaler.pkl
